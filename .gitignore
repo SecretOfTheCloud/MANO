@@ -1,0 +1,3 @@
+#编写忽视mano_v1_2和mano_v1_2.zip的gitignore
+/mano_v1_2
+mano_v1_2.zip
